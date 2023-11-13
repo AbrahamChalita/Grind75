@@ -16,3 +16,9 @@ class Solution:
         
 
         return maxProfit
+
+"""
+
+Initialize maxProfit and two pointers. Use while, for each pair check it profitable and store the max. If not profit move left = right. Either case move right one.
+
+"""
